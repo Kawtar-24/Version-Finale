@@ -6,6 +6,10 @@
 **Filière : Finance**  
 Année universitaire : 2025–2026
 
+![me](https://github.com/user-attachments/assets/169fe211-5fcd-4f30-bdd7-338a58ccbd99)
+
+
+
 ---
 
 ## 1. Contexte de la mission
