@@ -204,12 +204,3 @@ L’analyse exploratoire a permis d’identifier des signaux discriminants malgr
 Au-delà des performances chiffrées, ce travail souligne l’importance d’une approche intégrée, combinant analyse de données, compréhension métier et réflexion stratégique. Le *Machine Learning* apparaît ainsi non comme une solution autonome, mais comme un levier décisionnel au service de la gestion globale du risque bancaire.
 
 En définitive, ce projet illustre la capacité des méthodes quantitatives à renforcer la résilience des institutions financières face à la fraude, tout en ouvrant des perspectives d’amélioration à travers l’intégration de modèles explicables et adaptatifs.
-
-## Graphes ressortis de Google Colab
-<img width="575" height="320" alt="1" src="https://github.com/user-attachments/assets/c7a6b238-a33c-4e29-ac4f-a7e2d55a8732" />
-<img width="1145" height="282" alt="2" src="https://github.com/user-attachments/assets/2b979d89-3ce2-439e-af35-4e8eb8c105b4" />
-<img width="468" height="280" alt="3" src="https://github.com/user-attachments/assets/d95fd24c-0bbe-4668-bfcc-04cf2489324e" />
-<img width="1291" height="1217" alt="5" src="https://github.com/user-attachments/assets/6c50d198-a4c1-4e07-aa5b-b1d793ccb7e8" />
-<img width="1223" height="294" alt="6" src="https://github.com/user-attachments/assets/d8707c15-2242-4d14-a383-2424b9bbba3e" />
-<img width="1216" height="406" alt="7" src="https://github.com/user-attachments/assets/d2ec96e2-8d9d-46b7-aa7e-49390f9b877f" />
-
