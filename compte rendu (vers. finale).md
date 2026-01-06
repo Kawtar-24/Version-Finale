@@ -2,6 +2,7 @@
 
 **Auteur : FRIMI Kawtar**  
 **Filière : Finance – ENCG Settat**
+
 ![me](https://github.com/user-attachments/assets/51d1bb07-7675-43ea-97e6-95dfc1c40744)
 
 
