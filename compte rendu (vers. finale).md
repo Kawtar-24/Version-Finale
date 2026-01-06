@@ -1,7 +1,7 @@
 
 # Projet Data Science & Machine Learning
 
-**Nom : FRIMI Kawtar**  
+**Nom & Prénom : FRIMI Kawtar**  
 **Filière : Finance**  
 Année universitaire : 2025–2026
 
